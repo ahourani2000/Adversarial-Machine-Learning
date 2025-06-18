@@ -1,5 +1,5 @@
 ## Adversarial Machine Learning: Image Classification & AI Security
-**Code for Image Classifier Model:** [Image Classifier Model](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Image%20Classifier%20Model.ipynb)
+**Code for Image Classifier Model:** [Image Classifier Model](https://github.com/ahourani2000/Adversarial-Machine-Learning/blob/main/Image%20Classifier%20Model.ipynb)
 
 **Code for Adversarial Example:** [PGD Model](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/PGD%20Model.ipynb)
 
